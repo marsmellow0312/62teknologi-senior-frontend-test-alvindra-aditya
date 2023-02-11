@@ -4,6 +4,7 @@ const app = express();
 
 app.get("/restoran",(req, res) => {
     console.log("semua data restoran")
+    
 });
 //http://localhost:2023/2024/restoran
 
